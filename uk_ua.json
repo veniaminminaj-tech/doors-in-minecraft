@@ -1,0 +1,11 @@
+{
+  "item.holychurch.crucifix": "Хрест",
+  "item.holychurch.bible": "Біблія",
+  "item.holychurch.holy_water": "Свята вода",
+  "item.holychurch.master_key": "Головний ключ",
+  "block.holychurch.locked_chest": "Замкнена скриня",
+  "block.holychurch.holy_ground": "Свята земля",
+  "item.holychurch.strange_grass": "Дивна травка",
+  "itemGroup.food": "Їжа",
+  "block.holychurch.church_altar": "Церковний вівтар"
+}

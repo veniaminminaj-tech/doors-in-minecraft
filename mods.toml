@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="holychurch"
+version="1.0.0"
+displayName="Holy Church: Crucifix & Bible"
+authors="Restored from user-provided JAR"
+description='''Holy Church adds a protective Crucifix, Bible, Holy Water, curses and church-themed protection to Minecraft 1.16.5.'''
+[[dependencies.holychurch]]
+modId="forge"
+mandatory=true
+versionRange="[36.2.0,37)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.holychurch]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5]"
+ordering="NONE"
+side="BOTH"
